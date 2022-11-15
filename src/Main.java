@@ -50,6 +50,7 @@ public class Main {
         System.out.println("fileVideo.isValidFileFormat() = " + fileVideo.isValidFileFormat());
         System.out.println("fileVideo.isTime() = " + fileVideo.isTime());
         System.out.println("fileVideo.isSizeFormat() = " + fileVideo.isSizeFormat());
+        System.out.println("для финального коммита");
 
         MyFile[] myFiles = new MyFile[4];
         myFiles[0] = fileDocs;
